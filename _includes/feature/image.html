@@ -26,9 +26,9 @@
 {%- assign links = include.link | split: ";" -%}
 {% assign align = include.align | default: "center" %}
 {% if align == "center" %}
-<div class="row">
+<div class="row" markdown="0">
 {% else %}
-<div class="clearfix">
+<div class="clearfix" markdown="0">
 {% endif %}
     {% for i in figures %}
     {% if i contains "/" %}
