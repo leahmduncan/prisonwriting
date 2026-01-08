@@ -24,7 +24,12 @@
 {%- assign captions = include.caption | split: ";" %}
 {%- assign alts = include.alt | split: ";" -%}
 {%- assign links = include.link | split: ";" -%}
+{% assign align = include.align | default: "center" %}
+{% if align == "center" %}
 <div class="row">
+{% else %}
+<div class="clearfix">
+{% endif %}
     {% for i in figures %}
     {% if i contains "/" %}
         {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}
@@ -38,7 +43,11 @@
         {%- capture image_alt -%}{{ alts[forloop.index0] }}{%- endcapture -%}
         {% capture functionName %}image_feature_{{ i | slugify | replace: "-","_" }}{{forloop.index | times: forloop.length }}{% endcapture %}
     {% endif %}
-    <div class="col-md text-center">
+{% if align == "center" %}
+<div class="col-md text-center">
+{% else %}
+<div class="float-{{ align }} {% if align == 'start' %}me-3{% else %}ms-3{% endif %} mb-3">
+{% endif %}
         <figure class="figure mx-3{% if include.width %} feature-w-{{ include.width }}{% endif %}">
             {% if i contains "/" %}
             
@@ -52,6 +61,7 @@
             {% endif %}
         </figure>
     </div>
+</div>
 
 {% if functionName != '' %}
 <script>
@@ -107,5 +117,3 @@ includeFunctions.push({{ functionName }});
 {% endif %}
 {% endfor %}
 </div>
-
-
