@@ -4,9 +4,9 @@ layout: about
 permalink: /lyon.html
 ---
 
-##Patrick Lyon
+## Patrick Lyon
 
-###Introduction
+### Introduction
 
 Blacksmith Patrick Lyon constructed iron doors for the Bank of Pennsylvania in the summer of 1798, but his involvement with the bank was far from over (Avery). When the bank was robbed just weeks later, he was a prime suspect ensnared in a lengthy investigation and sentenced to Walnut Street Prison (Lyon). Neither his story nor his incarceration ended when the robber, Isaac Davis, confessed and returned the money, though (Lyon; Avery). Despite his innocence, he remained imprisoned for the next few months — bank authorities insisted that he must have been an accomplice to the crime, even as the evidence indicated otherwise (Lyon). While in prison, he started recording his experience, and soon after the charges against him were dismissed, he published The narrative of Patrick Lyon, who suffered three months severe imprisonment in Philadelphia gaol; on merely a vague suspicion, of being concerned in the robbery of the Bank of Pennsylvania: with his remarks thereon (Lyon; Conway 31–41).
 
@@ -16,7 +16,7 @@ Throughout his [memoir,](https://link.gale.com/apps/doc/CB0129560326/ECCO?u=ncli
 
 Lyon’s reflections on innocence, class, and the justice system stretch far beyond his narrative. His commentary is relevant today, when many innocent people are incarcerated and even sentenced to death (“Death Penalty”). While the context has evolved, similar patterns still unfold, like systemic bias and official misconduct (“Death Penalty”). Addressing these enduring issues is a crucial step toward reforming the carceral state and promoting true justice, and engaging with Lyon’s story is a meaningful way to start.
 
-###Background and Accusations
+### Background and Accusations
 
 While this work centers on Patrick Lyon’s involvement with the Bank of Pennsylvania, his blacksmithery began long before. Born and raised in London to Scottish parents, he began mechanical study at just 11 years old (Avery; Lyon 5). He continued to develop his skills over the next 14 years by working in manufactories throughout London (Lyon 5). However, Lyon craved more opportunity and “resolved to come to America” to find it (Lyon 5). Despite his family’s and friends’ displeasure, he arrived in Philadelphia in November 1793 (Lyon 5).
 
@@ -32,7 +32,7 @@ Meanwhile, yellow fever had been spreading throughout the city. Philadelphians h
 
 Upon learning that he was a suspect, Lyon rushed to Philadelphia to prove his innocence. He even felt faint with anxiety when bank president Mr. Fox and city alderman Mr. Stocker examined him, but that worked against him. Fox and Stocker read it as an indicator of guilt, not as a reflection of innocent nerves (Lyon 20). These authorities further belittled him when Lyon asked why they accused him rather than his fellow blacksmith. Fox and Stocker argued that Lyon worked suspiciously slowly, framing his commitment to his craft as a cause for concern rather than an admirable quality (Lyon 20). Despite Lyon’s best efforts to assert his innocence, his fate was sealed — he was a suspect destined for solitary confinement in Walnut Street Prison.
 
-###INCARCERATION EXPERIENCE
+### INCARCERATION EXPERIENCE
 
 Philadelphia’s Walnut Street Prison, where Lyon was imprisoned, holds a special status in carceral history. Built in 1773 and nicknamed “the cradle” of the American penitentiary, it inspired several American prisons’ structures and systems (Benson; Roberts and Roberts). The prison was also an early target for reform efforts — the administration allegedly focused on more humane treatment and rehabilitation rather than punishment (Benson; Lownes 10–13; Turnbull 4). Yet Walnut Street Prison’s history is far more complex than these claims imply. While the prison improved upon existing carceral conditions, the administration still mistreated inmates and relied upon damaging practices like solitary confinement. Lyon’s narrative reflects this grim reality.
 
@@ -52,7 +52,7 @@ Lyon’s innocence was his strongest anchor throughout his incarceration. Despit
 
 {% include feature/image.html objectid="94" width="75" caption="A 1797 map of Philadelphia. Walnut Street Prison, where Patrick Lyon was incarcerated, is marked as 45." %}
 
-###INJUSTICE AND EXONERATION
+### INJUSTICE AND EXONERATION
 
 Carpenter Isaac Davis eventually confessed to robbing the Bank of Pennsylvania. Though Lyon did not know Davis’ name, he had suspected him for weeks — Davis was the stranger who had been drinking with Robinson (Lyon 62). He and Thomas Cunningham, a bank porter who died of yellow fever, had both worked for the Bank of Pennsylvania and coordinated the heist (Avery). Davis was discovered after depositing large sums of money across Philadelphia banks, including the very bank he stole from (Avery). This information did not exonerate Lyon, though — rather, “resentment had not yet quitted that malignant breast of some secret enemy… [he] had in that bank” (47). Though evidence pointed to his innocence, Lyon’s not-so-secret enemies — Fox, Stocker, and Smith, the bank cashier — continued to target him. They remained suspicious toward Lyon and accused him of having a set of false keys, leaving him in prison for several more weeks (Lyon 48). 
 
@@ -60,7 +60,7 @@ Fox, Stocker, and Smith’s resistance to exonerating Lyon was grounded in self-
 
 Despite Fox, Stocker, and Smith’s efforts, Lyon was exonerated. After Davis wrote a letter alleging Lyon’s innocence, his bail was lowered to $2,000 — a sum he could afford — and a grand jury cleared his name in January 1799 (Avery). Lyon had spent over three months in Walnut Street Prison, but was finally free.
 
-###THE IRONY OF INNOCENCE
+### THE IRONY OF INNOCENCE
 
 Lyon was frustrated by the power dynamics and exploitation present throughout his legal process, and those sentiments echo throughout his work. He opens his narrative with a two-page message to the public, encouraging them to recognize that poor, innocent men are often unfairly accused while wealthier, guilty individuals can escape punishment (Lyon 3–4). Lyon writes that “every one ought to have his full portion of justice,” but questions the attainability of this equity (Lyon 3). In his experience, “the rich can elude justice by giving great bail, and feeing lawyers high, who by that and other methods, protract the affair till the action dies away by one means or another” (Lyon 3). Conversely, “if the small fry get in the least entramelled in the meshes of the law, they are generally fastened in the net, and often times punished wrongfully” (Lyon 3). He presents wealthy and poor individuals’ differing outcomes as a resource disparity — the rich have the money to effectively outrun their greatest missteps, while the poor are trapped by even the smallest accusations. Lyon calls attention to structural inequality within the justice system before his story even begins; in doing so, he helps readers identify how it impacted his own incarceration experience and emphasizes the urgency of the issue.
 
@@ -76,7 +76,7 @@ While Lyon attempted to draw attention to these structural inequalities and coun
 
 {% include feature/image.html objectid="93" width="75" caption="A document from Lyon's 1805 wrongful imprisonment trial." %}
 
-###LEGACIES OF INNOCENCE
+### LEGACIES OF INNOCENCE
 
 Even after being released from Walnut Street Prison, Lyon continued to advocate for his innocence and the truth. As part of that process, he published his narrative later in 1799 (Lyon 6). Not only did he want to share his own story, but he wanted to call attention to the ways the justice system privileges the wealthiest while simultaneously punishing “those who are inferior in rank,” like him (Lyon 3). His message was powerful, and it resonated: Lyon’s story was well-known throughout Philadelphia and was even used as a moral tale for children (Patrick 189). Though Lyon had never envisioned himself as a writer — he was much “more accustomed to mechanics” — his incarceration experience changed that narrative (Lyon 75).
 
