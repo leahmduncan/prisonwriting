@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
-Home,/
+Home,/,
 Exhibits,,
-Browse,/browse.html
-Subjects,/subjects.html
-Download Data,/data.html
-Map,/map.html
-Timeline,/timeline.html
+Browse,/browse.html,
+Subjects,/subjects.html,
+Download Data,/data.html,
+Map,/map.html,
+Timeline,/timeline.html,
 Innocence Narratives,/innocence.html,Exhibits
